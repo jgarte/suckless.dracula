@@ -1,6 +1,9 @@
 # Matt's DWM Install
 
-This dwm install is based on the Material Ocean theme. 
+This dwm install is based on the Dracula theme. 
+
+
+Note: This does not include neovim or alacritty configs yet.
 
 ## Dependencies
 * git (to download this repo)
